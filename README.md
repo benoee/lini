@@ -1,4 +1,3 @@
-
 # AutoInstall Lamp ubuntu server 20.04
 
 
@@ -31,7 +30,7 @@ ubuntu 20.04
 ### Installing
 **Installing dependencies**
 
-```
+```wget https://raw.githubusercontent.com/benoee/lini/main/lamp.sh && chmod +x lamp.sh && ./lamp.sh```
 
 
 
